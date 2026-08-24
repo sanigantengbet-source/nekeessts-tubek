@@ -1,0 +1,6 @@
+{
+  "name": "NextTube",
+  "description": "NextTube is a modern video sharing and streaming platform built with Next.js 15, TypeScript, and Tailwind CSS. Features video feeds, responsive mobile playback, interactive comments, search, subscriptions, category filtering, dark mode, and authentication.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
